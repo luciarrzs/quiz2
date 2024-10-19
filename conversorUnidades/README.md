@@ -1,11 +1,10 @@
-## Autor
-
-Nombre completo del propietario del repositorio: Lucía Villarreal
-
 # Conversor de USD a CRC
 
 Este proyecto es un conversor de dólares estadounidenses (USD) a colones costarricenses (CRC) utilizando una interfaz gráfica creada con Tkinter.
 
+## Autor
+
+Nombre completo del propietario del repositorio: Lucía Villarreal
 ## Instrucciones de uso
 
 1. Asegúrate de tener Python instalado en tu sistema.
